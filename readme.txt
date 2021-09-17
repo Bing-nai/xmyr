@@ -12,3 +12,4 @@ ksks文件夹内是初步计算完成的各文件，未经过任何加工
 result_*.txt文件是经过注释等加工的该物种所有ka/ks计算的结果
 re_meme文件夹是该物种所有基序
 re_meme10文件夹是该物种evalue在e-10以内的基序
+所有对应的物种结果文件均通过tags中对应物种名的Downloads-tar.gz下载
